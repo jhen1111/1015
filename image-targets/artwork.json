@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 40,
+    "left": 0,
+    "width": 490,
+    "height": 653,
+    "isRotated": true,
+    "originalWidth": 490,
+    "originalHeight": 735
+  },
+  "imagePath": "image-targets/artwork_luminance.jpg",
+  "metadata": null,
+  "name": "artwork",
+  "resources": {
+    "originalImage": "artwork_original.jpg",
+    "croppedImage": "artwork_cropped.jpg",
+    "thumbnailImage": "artwork_thumbnail.jpg",
+    "luminanceImage": "artwork_luminance.jpg"
+  },
+  "created": 1792030334863,
+  "updated": 1792030392725
+}
